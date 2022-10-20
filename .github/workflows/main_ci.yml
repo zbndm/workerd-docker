@@ -28,8 +28,8 @@ jobs:
       - 
         uses: docker/login-action@v1 
         with:
-          username: br8o
-          password: dckr_pat_YXAjJ9wDTCWm7vASJaSl7dtHVrI
+          username: vsamaru
+          password: dckr_pat_RlIq56x7QSkjvcHhK8O9eK5ALT0
       -
         name: Build and push
         id: docker_build
